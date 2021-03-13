@@ -1,7 +1,4 @@
 # Simple-AR-Tower-Defense
-
-
-Simple AR Tower Defense. 
  
 Requires Unity AR Foundation package.
  
